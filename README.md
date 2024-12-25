@@ -1,0 +1,1 @@
+# KendiMitolijiniYarat.py
